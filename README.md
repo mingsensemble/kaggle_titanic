@@ -1,2 +1,2 @@
 # Kaggle - Titanic
-I do this project for fun outside work.  All the analysis is documented in the Jupyter Notebook.  The model achieves 80% accuracy in the testing data.
+I did this project for fun outside work.  All the analysis was documented in the Jupyter Notebook.  The model achieved 80% accuracy in the testing data, placing me at the time of submission in the top 15% among all the participants.
